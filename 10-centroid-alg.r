@@ -1,3 +1,5 @@
+# Will develop an updated algorithm for centroid generation here.
+
 # Aim: take a matrix representing a convex polygon, return its centroid,
 # demonstrate how algorithms work
 
